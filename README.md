@@ -46,7 +46,16 @@ Back-End
   <img src="https://img.shields.io/badge/socketdotio-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/#003545-003545?style=flat-square&logo=#003545&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-47a248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white"/>
+</p>
+
+Deployment
+<p>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazonaws-232f3e?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ed?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
