@@ -59,3 +59,9 @@ Deployment
   <img src="https://img.shields.io/badge/docker-2496ed?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
+
+Version Control
+<p>
+  <img src="https://img.shields.io/badge/git-f05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
