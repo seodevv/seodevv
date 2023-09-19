@@ -1,7 +1,7 @@
 <a href="https://instagram.com/seo.devv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Intagram&logoColor=white"/></a>
 # Welcome To My GitHub !
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seodevv&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seodevv&layout=compact&theme=tokyonight)
 
 ### Hi there 🖐🏻
 <span>I am a front-end web developer with an engineer background.🚀</br>
