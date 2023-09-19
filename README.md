@@ -3,13 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seodevv&show_icons=true&theme=radical)
 
 ### Hi there 🖐🏻
-I am a front-end web developer with an engineer background.🚀
-I mainly use react for web development.💪🏻
+<p>I am a front-end web developer with an engineer background.🚀</p>
+<p>I mainly use react for web development.💪🏻</p>
 
-It's still not enough, but please take care of it.🫡
+<p>It's still not enough, but please take care of it.🫡</p>
 
-I enjoy camping🏕️, surfing🏄🏻‍♂️, and snowboarding⛄.
-I want to do development that makes everyone happy.😊
+<p>I enjoy camping🏕️, surfing🏄🏻‍♂️, and snowboarding⛄.</p>
+<p>I want to do development that makes everyone happy.😊</p>
 
 ### Skills 💪🏻
 Front-End
