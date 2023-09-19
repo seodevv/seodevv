@@ -1,5 +1,5 @@
 <style>
-    .m-0 {
+    .markdown {
         box-sizing: border-box;
         min-width: 200px;
         max-width: 980px;
