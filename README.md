@@ -39,3 +39,14 @@ Front-End
   <img src="https://img.shields.io/badge/fontawesome-528dd7?style=flat-square&logo=fontawesome&logoColor=white"/>
 </p>
 
+Back-End
+<p>
+  <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/socketdotio-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/#003545-003545?style=flat-square&logo=#003545&logoColor=white"/>
+  <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-47a248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
