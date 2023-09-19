@@ -1,7 +1,4 @@
 # Welcome To My GitHub !
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seodevv&layout=compact&theme=tokyonight)
-
-
 ### 🖐🏻 Hi there
 <span>I am a front-end web developer with an engineer background.🚀</br>
 I mainly use react for web development.💪🏻</span>
