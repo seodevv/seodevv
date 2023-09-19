@@ -15,10 +15,12 @@ I mainly use react for web development.💪🏻</span>
 I want to do development that makes everyone happy.😊</span>
 
 ### 🙋🏻‍♂️ Personal Info
-+ 
++ Jinwon Seo
++ Live in seoul, korea.
++ <a href="mailto:seodev17@gmail.com">seodev17@gmail.com</a>
 
 ### 💪🏻 Skills
-+ Front-End
+Front-End
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -42,7 +44,7 @@ I want to do development that makes everyone happy.😊</span>
   <img src="https://img.shields.io/badge/fontawesome-528dd7?style=flat-square&logo=fontawesome&logoColor=white"/>
 </p>
 
-+ Back-End
+Back-End
 <p>
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -55,7 +57,7 @@ I want to do development that makes everyone happy.😊</span>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white"/>
 </p>
 
-+ Deployment
+Deployment
 <p>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazonaws-232f3e?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -63,7 +65,7 @@ I want to do development that makes everyone happy.😊</span>
   <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
 
-+ Version Control
+Version Control
 <p>
   <img src="https://img.shields.io/badge/git-f05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
