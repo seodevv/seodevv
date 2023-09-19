@@ -1,6 +1,7 @@
 <a href="https://instagram.com/seo.devv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Intagram&logoColor=white"/></a>
 # Welcome To My GitHub !
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seodevv&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seodevv&size_weight=0.5&count_weight=0.5)
 
 ### Hi there 🖐🏻
 <span>I am a front-end web developer with an engineer background.🚀</br>
