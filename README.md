@@ -4,7 +4,7 @@
 
 
 ### Skills 💪🏻
-#### Front-End
+Front-End
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Intagram&logoColor=##E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Intagram&logoColor=#1572B6"/>
