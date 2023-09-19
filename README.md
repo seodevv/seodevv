@@ -1,7 +1,15 @@
 <a href="https://instagram.com/seo.devv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Intagram&logoColor=white"/></a>
+# Welcome To My GitHub !
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seodevv&show_icons=true&theme=radical)
 
 ### Hi there 🖐🏻
+I am a front-end web developer with an engineer background.🚀
+I mainly use react for web development.💪🏻
 
+It's still not enough, but please take care of it.🫡
+
+I enjoy camping🏕️, surfing🏄🏻‍♂️, and snowboarding⛄.
+I want to do development that makes everyone happy.😊
 
 ### Skills 💪🏻
 Front-End
