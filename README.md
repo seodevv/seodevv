@@ -8,7 +8,7 @@
     }
 
     @media (max-width: 767px) {
-        .markdown-body {
+        .test {
             padding: 15px;
         }
     }
