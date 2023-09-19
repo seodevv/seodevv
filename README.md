@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Intagram&logoColor=#E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Intagram&logoColor=#E4405F"/>
 
 ### Hi there👋
 
