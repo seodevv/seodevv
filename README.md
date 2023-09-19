@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/android?style=flat-square&logo=Android&logoColor=#3DDC84"/>
+<img src="https://img.shields.io/badge/android?style=andriod-3DDC84&logo=Android&logoColor=#3DDC84"/>
 
 <!--
 **seodevv/seodevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
