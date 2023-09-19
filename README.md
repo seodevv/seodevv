@@ -6,10 +6,10 @@
 <span>I am a front-end web developer with an engineer background.🚀</br>
 I mainly use react for web development.💪🏻</span>
 
-<p>It's still not enough, but please take care of it.🫡</p>
+<span>It's still not enough, but please take care of it.🫡</span>
 
-<p>I enjoy camping🏕️, surfing🏄🏻‍♂️, and snowboarding⛄.</p>
-<p>I want to do development that makes everyone happy.😊</p>
+<span>I enjoy camping🏕️, surfing🏄🏻‍♂️, and snowboarding⛄.</br>
+I want to do development that makes everyone happy.😊</span>
 
 ### Skills 💪🏻
 Front-End
