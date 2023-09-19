@@ -19,8 +19,12 @@ Front-End
 <p>
   <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/reduxsaga-999999?style=flat-square&logo=reduxsaga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-0769ad?style=flat-square&logo=jquery&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/mui-007fff?style=flat-square&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mui-86b6d4?style=flat-square&logo=reduxsaga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fontawesome-528dd7?style=flat-square&logo=fontawesome&logoColor=white"/>
 </p>
 
