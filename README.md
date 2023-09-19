@@ -3,8 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seodevv&show_icons=true&theme=radical)
 
 ### Hi there 🖐🏻
-<p>I am a front-end web developer with an engineer background.🚀</p>
-<p>I mainly use react for web development.💪🏻</p>
+<span>I am a front-end web developer with an engineer background.🚀</br>
+I mainly use react for web development.💪🏻</span>
 
 <p>It's still not enough, but please take care of it.🫡</p>
 
