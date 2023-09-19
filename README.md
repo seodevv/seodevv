@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Intagram&logoColor=#E4405F"/>
+<a href="https://instagram.com/seo.devv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Intagram&logoColor=#E4405F"/></a>
 
 ### Hi there👋
 
