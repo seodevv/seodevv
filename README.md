@@ -1,6 +1,10 @@
 <style>
     .m-0 {
-        margin: 0;
+        box-sizing: border-box;
+        min-width: 200px;
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 45px;
     }
 </style>
 
